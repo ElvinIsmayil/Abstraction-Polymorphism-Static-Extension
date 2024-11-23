@@ -1,0 +1,15 @@
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\bin\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.exe
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\bin\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.deps.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\bin\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.runtimeconfig.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\bin\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\bin\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.pdb
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\obj\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\obj\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.AssemblyInfoInputs.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\obj\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.AssemblyInfo.cs
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\obj\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\obj\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.sourcelink.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\obj\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\obj\Debug\net6.0\refint\Abstraction, Polymorphism, Static, Extension.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\obj\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.pdb
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\obj\Debug\net6.0\Abstraction, Polymorphism, Static, Extension.genruntimeconfig.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Abstraction, Polymorphism, Static, Extension\Abstraction, Polymorphism, Static, Extension\obj\Debug\net6.0\ref\Abstraction, Polymorphism, Static, Extension.dll
